@@ -1,3 +1,7 @@
+The content of the manifesto is copyright 2013 Mel Chua, http://melchua.com, and released under a Creative Commons Attribution Share-Alike license. Photo credits are in a text file in the "photos" folder.
+
+The manifesto uses Shower for its display, which is released under the MIT license (below).
+
 # The MIT License
 
 Copyright © 2010–2013 Vadim Makeev, http://pepelsbey.net/
